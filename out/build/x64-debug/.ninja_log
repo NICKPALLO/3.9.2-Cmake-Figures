@@ -1,0 +1,25 @@
+# ninja log v5
+4	1488	7400782563501667	CMakeFiles/main.cpp.dir/Equilateral_triangle.cpp.obj	36ea76b0586452f7
+65	1490	7400782563531678	CMakeFiles/main.cpp.dir/Rectangl.cpp.obj	cb45d04583c506d7
+97	1484	7400782563461647	CMakeFiles/main.cpp.dir/Triangle.cpp.obj	8b3eb84cbd5b81c7
+89	1483	7400782563441679	CMakeFiles/main.cpp.dir/Square.cpp.obj	64dbc8bc642778d4
+30	1482	7400782563431646	CMakeFiles/main.cpp.dir/Figure.cpp.obj	7696f8a43ced8c5a
+66	766	7400786603132268	CMakeFiles/CMakeFigures.dir/Right_triangle.cpp.obj	46e864c642db321c
+46	1490	7400782563521664	CMakeFiles/main.cpp.dir/Parallelogram.cpp.obj	c252846ee1e1b524
+81	1488	7400782563501667	CMakeFiles/main.cpp.dir/Right_triangle.cpp.obj	5172d5ec9ee38fff
+39	1489	7400782563531678	CMakeFiles/main.cpp.dir/Isosceles_triangle.cpp.obj	579691912ec7476b
+74	1487	7400782563501667	CMakeFiles/main.cpp.dir/Rhombus.cpp.obj	5ba42f4435319d2e
+57	1491	7400782563531678	CMakeFiles/main.cpp.dir/Quadrilateral.cpp.obj	b5a5a46411bc969e
+12	23	0	clean	8c45b54705a541e8
+8	145	7400787104823621	build.ninja	ade9d1f882113ce8
+34	754	7400786602982251	CMakeFiles/CMakeFigures.dir/Parallelogram.cpp.obj	3b375bdf773d4118
+74	760	7400786603092296	CMakeFiles/CMakeFigures.dir/Square.cpp.obj	e2da66eb5172d081
+3	1121	7400786606740261	CMakeFiles/CMakeFigures.dir/main.cpp.obj	ec4fbb4ea48ef661
+18	761	7400786603082298	CMakeFiles/CMakeFigures.dir/Figure.cpp.obj	9211e2321a4ed71b
+58	762	7400786603062289	CMakeFiles/CMakeFigures.dir/Rhombus.cpp.obj	9378e333695d47f5
+11	763	7400786603092296	CMakeFiles/CMakeFigures.dir/Equilateral_triangle.cpp.obj	d262a30d971ff873
+25	764	7400786603102290	CMakeFiles/CMakeFigures.dir/Isosceles_triangle.cpp.obj	456e20bf736ebfb9
+82	792	7400786603452332	CMakeFiles/CMakeFigures.dir/Triangle.cpp.obj	57b9d398902edf66
+41	777	7400786603292291	CMakeFiles/CMakeFigures.dir/Quadrilateral.cpp.obj	de5e8774a3a4166c
+49	780	7400786603312318	CMakeFiles/CMakeFigures.dir/Rectangl.cpp.obj	f000a76e8e6d358c
+1123	1572	7400786611095295	CMakeFigures.exe	783faec1354a2d3a
